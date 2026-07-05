@@ -25,3 +25,15 @@ The goal is to provide a comprehensive reference for problem-solving approaches,
 # Acknowledgements
 - Inspired by the need to practice and compare solutions across languages.
 - Thanks to the LeetCode community for problem sets and discussions.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aribashaikh02/leetcode/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/aribashaikh02/leetcode/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
