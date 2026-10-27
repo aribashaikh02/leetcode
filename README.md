@@ -53,8 +53,17 @@ The goal is to provide a comprehensive reference for problem-solving approaches,
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aribashaikh02/leetcode/tree/master/0002-add-two-numbers) |
+| [0415-add-strings](https://github.com/aribashaikh02/leetcode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/aribashaikh02/leetcode/tree/master/0002-add-two-numbers) |
+## String
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/aribashaikh02/leetcode/tree/master/0415-add-strings) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/aribashaikh02/leetcode/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
